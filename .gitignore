@@ -2,3 +2,9 @@ settings/settings.ini.php
 composer.phar
 composer.lock
 composer-setup.php
+
+# Ignore ZendStudio Project Files
+.buildpath
+.project
+.settings/
+
